@@ -51,3 +51,6 @@ Para ejecutar la aplicación:
 ```bash
 mvn exec:java -Dexec.mainClass=main.java.edu.unisabana.dyas.patterns.Client
 ```
+
+## Integrantes:
+Maria Jose Palomino | Carlos Andres Diaz | Manuel David Carreño 
